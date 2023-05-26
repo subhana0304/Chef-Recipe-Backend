@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "image": "https://knifeandsoul.com/wp-content/uploads/2022/09/crunchy-roll-sushi-recipe-recipe-card.jpg",
+      "name": "Sushi",
+      "chefName": "Yoshihiro Murata",
+      "chefImage": "https://www.lafoodbank.org/wp-content/uploads/Chef-Jessica-Largey-600-600.jpg",
+      "description": "Sushi is made of specially prepared vinegared rice, usually with some sugar and salt, combined with a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits. Sushi is often served with pickled ginger, wasabi, and soy sauce."
+    },
+    {
+      "id": "2",
+      "image": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square-500x500.jpg",
+      "name": "Ramen",
+      "chefName": "Ivan Orkin",
+      "chefImage": "https://www.ootorosushi.com/upload/chef/Kun-WuSan.jpg",
+      "description": "Ramen is a Japanese noodle soup dish that consists of Chinese-style wheat noodles served in a meat or fish-based broth, often flavored with soy sauce or miso, and topped with ingredients such as sliced pork, dried seaweed, green onions, and corn."
+    },
+    {
+      "id": "3",
+      "image": "https://www.196flavors.com/wp-content/uploads/2019/11/yaki-udon-1-FP.jpg",
+      "name": "Udon",
+      "chefName": "Yoshihiro Narisawa",
+      "chefImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202023/rs_600x600-200303094215-600-Richard-Blais-LT-030320-NUP_163584_0444.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "description": "Udon is a type of thick wheat flour noodle used in Japanese cuisine. It is often served hot as a noodle soup in a mildly flavored broth, flavored with soy sauce, mirin, and dashi, and topped with thinly sliced scallions, kamaboko, and tempura crumbs."
+    }
+  ]
